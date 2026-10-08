@@ -1,0 +1,4 @@
+# The converter's Python environment (usd-core from PyPI)
+tools/usdlod/.venv/
+__pycache__/
+tools/usdlod/fingerprints/
