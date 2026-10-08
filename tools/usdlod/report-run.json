@@ -1,0 +1,28 @@
+{
+  "seconds": 8.4,
+  "layers_rewritten": 8076,
+  "selections_removed": 45,
+  "sets": {
+    "modelLod": {
+      "converted": 2563,
+      "instanced_through_class": 2315,
+      "single_level_payloads": 5510,
+      "levels": {
+        "1": 5510,
+        "2": 1729,
+        "4": 376,
+        "3": 458
+      },
+      "skipped": []
+    },
+    "districtLod": {
+      "converted": 45,
+      "instanced_through_class": 0,
+      "single_level_payloads": 0,
+      "levels": {
+        "2": 45
+      },
+      "skipped": []
+    }
+  }
+}
